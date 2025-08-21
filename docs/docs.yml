@@ -26,6 +26,8 @@ navigation:
                     path: wallets/pages/react/setup.mdx
                   - page: Quickstart
                     path: wallets/pages/react/quickstart.mdx
+                  - page: Add to existing project
+                    path: wallets/pages/react/add-to-existing-project.mdx
                   - page: Set up your client
                     path: wallets/pages/react/how-to-set-up-smart-account-client.mdx
                   - page: Multi-chain setup
